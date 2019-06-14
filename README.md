@@ -10,6 +10,7 @@ If you are a french speaker, I invite you to check the code comments for more de
 - [OpenGL](https://www.opengl.org/)
 - [GL4D API](https://github.com/noalien/GL4Dummies)
 - [SDL2](https://www.libsdl.org/) and [SDL Image](https://www.libsdl.org/projects/SDL_image/) & [SDL Mixer](https://www.libsdl.org/projects/SDL_mixer/) dependencies
+- [FFTW3](http://www.fftw.org/)
 
 ## How to use - *Linux Project*
 
