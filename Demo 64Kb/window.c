@@ -13,7 +13,6 @@
 #include <SDL_image.h>
 #include <SDL_mixer.h>
 #include <fftw3.h>
-#include <SDL_ttf.h>
 #include "mobile.h"
 
 /*PROTOTYPES DES FONCTIONS STATIQUES*/
