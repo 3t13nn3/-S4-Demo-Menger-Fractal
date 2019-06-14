@@ -1,5 +1,5 @@
 # -S4-Demo-Menger-Fractal
-Graphic programming project for the university made in C with [OpenGL](https://www.opengl.org/) and [GL4D API](https://github.com/noalien/GL4Dummies), focusing mainly on the [Menger Fractal](https://en.wikipedia.org/wiki/Menger_sponge) and animated by music.
+Graphic programming project for the university made in C with [OpenGL 3.3](https://www.opengl.org/) and [GL4D API](https://github.com/noalien/GL4Dummies), focusing mainly on the [Menger Fractal](https://en.wikipedia.org/wiki/Menger_sponge) and animated by music.
 
 This project aims to show what you can do in graphic programming while making something artistic. As part of the [API8](https://api8.fr/) contest, this demo was played for the purpose of participating.
 
